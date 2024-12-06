@@ -1,0 +1,1 @@
+[{"model":"0E3B0AFE-D288-428D-B64C-3182DB2C1F22","weights":{"strides":[1],"scalar":"double","shape":[10245],"index":0}},["cardboard","glass","metal","paper","plastic","trash"]]

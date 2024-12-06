@@ -12,6 +12,21 @@
 		9944DDCA2CF7D8300024C310 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9944DDC92CF7D8300024C310 /* ContentView.swift */; };
 		9944DDCC2CF7D8330024C310 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9944DDCB2CF7D8330024C310 /* Assets.xcassets */; };
 		9944DDCF2CF7D8330024C310 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9944DDCE2CF7D8330024C310 /* Preview Assets.xcassets */; };
+		996B89222D02DA8F00BADFCE /* WasteClassifierML Iteration 25.json in Resources */ = {isa = PBXBuildFile; fileRef = 996B890A2D02DA8E00BADFCE /* WasteClassifierML Iteration 25.json */; };
+		996B89232D02DA8F00BADFCE /* WasteClassifierML Iteration 25.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 996B890B2D02DA8E00BADFCE /* WasteClassifierML Iteration 25.mlmodel */; };
+		996B89242D02DA8F00BADFCE /* Project.json in Resources */ = {isa = PBXBuildFile; fileRef = 996B890C2D02DA8E00BADFCE /* Project.json */; };
+		996B89252D02DA8F00BADFCE /* train.json in Resources */ = {isa = PBXBuildFile; fileRef = 996B890E2D02DA8E00BADFCE /* train.json */; };
+		996B89262D02DA8F00BADFCE /* TrashType_Image_Dataset.json in Resources */ = {isa = PBXBuildFile; fileRef = 996B890F2D02DA8E00BADFCE /* TrashType_Image_Dataset.json */; };
+		996B89272D02DA8F00BADFCE /* New Folder With Items.json in Resources */ = {isa = PBXBuildFile; fileRef = 996B89102D02DA8E00BADFCE /* New Folder With Items.json */; };
+		996B89282D02DA8F00BADFCE /* testing_data_trashtype.json in Resources */ = {isa = PBXBuildFile; fileRef = 996B89112D02DA8E00BADFCE /* testing_data_trashtype.json */; };
+		996B89292D02DA8F00BADFCE /* WasteClassifierML.json in Resources */ = {isa = PBXBuildFile; fileRef = 996B89132D02DA8E00BADFCE /* WasteClassifierML.json */; };
+		996B892A2D02DA8F00BADFCE /* checkpointModel.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 996B89172D02DA8E00BADFCE /* checkpointModel.mlmodel */; };
+		996B892B2D02DA8F00BADFCE /* features.bin in Resources */ = {isa = PBXBuildFile; fileRef = 996B891A2D02DA8E00BADFCE /* features.bin */; };
+		996B892C2D02DA8F00BADFCE /* metadata.json in Resources */ = {isa = PBXBuildFile; fileRef = 996B891B2D02DA8E00BADFCE /* metadata.json */; };
+		996B892D2D02DA8F00BADFCE /* parameters.plist in Resources */ = {isa = PBXBuildFile; fileRef = 996B891C2D02DA8E00BADFCE /* parameters.plist */; };
+		996B892E2D02DA8F00BADFCE /* model.pkg in Resources */ = {isa = PBXBuildFile; fileRef = 996B891E2D02DA8E00BADFCE /* model.pkg */; };
+		996B892F2D02DA8F00BADFCE /* meta.plist in Resources */ = {isa = PBXBuildFile; fileRef = 996B891F2D02DA8E00BADFCE /* meta.plist */; };
+		996B89302D02DA8F00BADFCE /* WasteClassifierML.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 996B89212D02DA8E00BADFCE /* WasteClassifierML.mlmodel */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +36,21 @@
 		9944DDC92CF7D8300024C310 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		9944DDCB2CF7D8330024C310 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9944DDCE2CF7D8330024C310 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		996B890A2D02DA8E00BADFCE /* WasteClassifierML Iteration 25.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "WasteClassifierML Iteration 25.json"; sourceTree = "<group>"; };
+		996B890B2D02DA8E00BADFCE /* WasteClassifierML Iteration 25.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = "WasteClassifierML Iteration 25.mlmodel"; sourceTree = "<group>"; };
+		996B890C2D02DA8E00BADFCE /* Project.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Project.json; sourceTree = "<group>"; };
+		996B890E2D02DA8E00BADFCE /* train.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = train.json; sourceTree = "<group>"; };
+		996B890F2D02DA8E00BADFCE /* TrashType_Image_Dataset.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = TrashType_Image_Dataset.json; sourceTree = "<group>"; };
+		996B89102D02DA8E00BADFCE /* New Folder With Items.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "New Folder With Items.json"; sourceTree = "<group>"; };
+		996B89112D02DA8E00BADFCE /* testing_data_trashtype.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = testing_data_trashtype.json; sourceTree = "<group>"; };
+		996B89132D02DA8E00BADFCE /* WasteClassifierML.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = WasteClassifierML.json; sourceTree = "<group>"; };
+		996B89172D02DA8E00BADFCE /* checkpointModel.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = checkpointModel.mlmodel; sourceTree = "<group>"; };
+		996B891A2D02DA8E00BADFCE /* features.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = features.bin; sourceTree = "<group>"; };
+		996B891B2D02DA8E00BADFCE /* metadata.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = metadata.json; sourceTree = "<group>"; };
+		996B891C2D02DA8E00BADFCE /* parameters.plist */ = {isa = PBXFileReference; lastKnownFileType = file.bplist; path = parameters.plist; sourceTree = "<group>"; };
+		996B891E2D02DA8E00BADFCE /* model.pkg */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.installer-pkg"; path = model.pkg; sourceTree = "<group>"; };
+		996B891F2D02DA8E00BADFCE /* meta.plist */ = {isa = PBXFileReference; lastKnownFileType = file.bplist; path = meta.plist; sourceTree = "<group>"; };
+		996B89212D02DA8E00BADFCE /* WasteClassifierML.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = WasteClassifierML.mlmodel; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -37,6 +67,7 @@
 		9944DDBB2CF7D8300024C310 = {
 			isa = PBXGroup;
 			children = (
+				996B88FC2D02D5B100BADFCE /* model */,
 				9944DDC62CF7D8300024C310 /* waste_classify */,
 				9944DDC52CF7D8300024C310 /* Products */,
 			);
@@ -68,6 +99,117 @@
 				9944DDCE2CF7D8330024C310 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		996B88FC2D02D5B100BADFCE /* model */ = {
+			isa = PBXGroup;
+			children = (
+				996B89212D02DA8E00BADFCE /* WasteClassifierML.mlmodel */,
+				996B89082D02DA8E00BADFCE /* WasteClassifierModel.mlmodel */,
+			);
+			path = model;
+			sourceTree = "<group>";
+		};
+		996B89082D02DA8E00BADFCE /* WasteClassifierModel.mlmodel */ = {
+			isa = PBXGroup;
+			children = (
+				996B89092D02DA8E00BADFCE /* Snapshots */,
+				996B890C2D02DA8E00BADFCE /* Project.json */,
+				996B890D2D02DA8E00BADFCE /* Data Sources */,
+				996B89122D02DA8E00BADFCE /* Model Containers */,
+				996B89142D02DA8E00BADFCE /* Checkpoints */,
+				996B89202D02DA8E00BADFCE /* Models */,
+			);
+			name = WasteClassifierModel.mlmodel;
+			path = waste_classify/WasteClassifierModel.mlmodel;
+			sourceTree = SOURCE_ROOT;
+		};
+		996B89092D02DA8E00BADFCE /* Snapshots */ = {
+			isa = PBXGroup;
+			children = (
+				996B890A2D02DA8E00BADFCE /* WasteClassifierML Iteration 25.json */,
+				996B890B2D02DA8E00BADFCE /* WasteClassifierML Iteration 25.mlmodel */,
+			);
+			path = Snapshots;
+			sourceTree = "<group>";
+		};
+		996B890D2D02DA8E00BADFCE /* Data Sources */ = {
+			isa = PBXGroup;
+			children = (
+				996B890E2D02DA8E00BADFCE /* train.json */,
+				996B890F2D02DA8E00BADFCE /* TrashType_Image_Dataset.json */,
+				996B89102D02DA8E00BADFCE /* New Folder With Items.json */,
+				996B89112D02DA8E00BADFCE /* testing_data_trashtype.json */,
+			);
+			path = "Data Sources";
+			sourceTree = "<group>";
+		};
+		996B89122D02DA8E00BADFCE /* Model Containers */ = {
+			isa = PBXGroup;
+			children = (
+				996B89132D02DA8E00BADFCE /* WasteClassifierML.json */,
+			);
+			path = "Model Containers";
+			sourceTree = "<group>";
+		};
+		996B89142D02DA8E00BADFCE /* Checkpoints */ = {
+			isa = PBXGroup;
+			children = (
+				996B89152D02DA8E00BADFCE /* 988E812B-CC2A-4DD4-A879-E63906042402.WasteClassifier1.checkpoint */,
+			);
+			path = Checkpoints;
+			sourceTree = "<group>";
+		};
+		996B89152D02DA8E00BADFCE /* 988E812B-CC2A-4DD4-A879-E63906042402.WasteClassifier1.checkpoint */ = {
+			isa = PBXGroup;
+			children = (
+				996B89162D02DA8E00BADFCE /* training-000000050.checkpoint.model */,
+				996B89182D02DA8E00BADFCE /* extracting-000002278.checkpoint */,
+				996B891C2D02DA8E00BADFCE /* parameters.plist */,
+				996B891D2D02DA8E00BADFCE /* training-000000050.checkpoint */,
+				996B891F2D02DA8E00BADFCE /* meta.plist */,
+			);
+			path = "988E812B-CC2A-4DD4-A879-E63906042402.WasteClassifier1.checkpoint";
+			sourceTree = "<group>";
+		};
+		996B89162D02DA8E00BADFCE /* training-000000050.checkpoint.model */ = {
+			isa = PBXGroup;
+			children = (
+				996B89172D02DA8E00BADFCE /* checkpointModel.mlmodel */,
+			);
+			path = "training-000000050.checkpoint.model";
+			sourceTree = "<group>";
+		};
+		996B89182D02DA8E00BADFCE /* extracting-000002278.checkpoint */ = {
+			isa = PBXGroup;
+			children = (
+				996B89192D02DA8E00BADFCE /* training */,
+			);
+			path = "extracting-000002278.checkpoint";
+			sourceTree = "<group>";
+		};
+		996B89192D02DA8E00BADFCE /* training */ = {
+			isa = PBXGroup;
+			children = (
+				996B891A2D02DA8E00BADFCE /* features.bin */,
+				996B891B2D02DA8E00BADFCE /* metadata.json */,
+			);
+			path = training;
+			sourceTree = "<group>";
+		};
+		996B891D2D02DA8E00BADFCE /* training-000000050.checkpoint */ = {
+			isa = PBXGroup;
+			children = (
+				996B891E2D02DA8E00BADFCE /* model.pkg */,
+			);
+			path = "training-000000050.checkpoint";
+			sourceTree = "<group>";
+		};
+		996B89202D02DA8E00BADFCE /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Models;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -128,8 +270,20 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				996B892B2D02DA8F00BADFCE /* features.bin in Resources */,
+				996B89292D02DA8F00BADFCE /* WasteClassifierML.json in Resources */,
+				996B892D2D02DA8F00BADFCE /* parameters.plist in Resources */,
+				996B892F2D02DA8F00BADFCE /* meta.plist in Resources */,
+				996B89272D02DA8F00BADFCE /* New Folder With Items.json in Resources */,
 				9944DDCF2CF7D8330024C310 /* Preview Assets.xcassets in Resources */,
+				996B89262D02DA8F00BADFCE /* TrashType_Image_Dataset.json in Resources */,
+				996B892C2D02DA8F00BADFCE /* metadata.json in Resources */,
+				996B892E2D02DA8F00BADFCE /* model.pkg in Resources */,
+				996B89222D02DA8F00BADFCE /* WasteClassifierML Iteration 25.json in Resources */,
+				996B89252D02DA8F00BADFCE /* train.json in Resources */,
+				996B89282D02DA8F00BADFCE /* testing_data_trashtype.json in Resources */,
 				9944DDCC2CF7D8330024C310 /* Assets.xcassets in Resources */,
+				996B89242D02DA8F00BADFCE /* Project.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -142,7 +296,10 @@
 			files = (
 				99240E872CF8211A00704FA5 /* PhotoPicker.swift in Sources */,
 				9944DDCA2CF7D8300024C310 /* ContentView.swift in Sources */,
+				996B89232D02DA8F00BADFCE /* WasteClassifierML Iteration 25.mlmodel in Sources */,
 				9944DDC82CF7D8300024C310 /* waste_classifyApp.swift in Sources */,
+				996B892A2D02DA8F00BADFCE /* checkpointModel.mlmodel in Sources */,
+				996B89302D02DA8F00BADFCE /* WasteClassifierML.mlmodel in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
